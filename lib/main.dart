@@ -33,11 +33,8 @@ class _MyHomePageState extends State<MyHomePage> {
         body: Column(
       children: [
         Text("Hello World"),
-<<<<<<< HEAD
         Text("this is a subfeature branch of the main feature branch"),
-=======
         Text("this is third sub feautre"),
->>>>>>> subfeaturethirdsubfeature
       ],
     ));
   }
