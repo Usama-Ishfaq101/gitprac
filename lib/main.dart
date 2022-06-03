@@ -33,6 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
         body: Column(
       children: [
         Text("Hello World"),
+        Text("These are a first feature changes"),
       ],
     ));
   }
