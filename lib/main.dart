@@ -34,6 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
       children: [
         Text("Hello World"),
         Text("These are a first feature changes"),
+        Text("These are a second feature changes"),
       ],
     ));
   }
